@@ -1,0 +1,15 @@
+/Users/artisjamesiv/MIS 221 Repos/MIS221/bin/Debug/net9.0/MIS221
+/Users/artisjamesiv/MIS 221 Repos/MIS221/bin/Debug/net9.0/MIS221.deps.json
+/Users/artisjamesiv/MIS 221 Repos/MIS221/bin/Debug/net9.0/MIS221.runtimeconfig.json
+/Users/artisjamesiv/MIS 221 Repos/MIS221/bin/Debug/net9.0/MIS221.dll
+/Users/artisjamesiv/MIS 221 Repos/MIS221/bin/Debug/net9.0/MIS221.pdb
+/Users/artisjamesiv/MIS 221 Repos/MIS221/obj/Debug/net9.0/MIS221.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artisjamesiv/MIS 221 Repos/MIS221/obj/Debug/net9.0/MIS221.AssemblyInfoInputs.cache
+/Users/artisjamesiv/MIS 221 Repos/MIS221/obj/Debug/net9.0/MIS221.AssemblyInfo.cs
+/Users/artisjamesiv/MIS 221 Repos/MIS221/obj/Debug/net9.0/MIS221.csproj.CoreCompileInputs.cache
+/Users/artisjamesiv/MIS 221 Repos/MIS221/obj/Debug/net9.0/MIS221.sourcelink.json
+/Users/artisjamesiv/MIS 221 Repos/MIS221/obj/Debug/net9.0/MIS221.dll
+/Users/artisjamesiv/MIS 221 Repos/MIS221/obj/Debug/net9.0/refint/MIS221.dll
+/Users/artisjamesiv/MIS 221 Repos/MIS221/obj/Debug/net9.0/MIS221.pdb
+/Users/artisjamesiv/MIS 221 Repos/MIS221/obj/Debug/net9.0/MIS221.genruntimeconfig.cache
+/Users/artisjamesiv/MIS 221 Repos/MIS221/obj/Debug/net9.0/ref/MIS221.dll
